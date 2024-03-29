@@ -9,6 +9,16 @@
 ##### titulo 5
 ###### titulo 6
 
+_italico- ou *italico*
+
+__negrito__ ou **negrito**
+
+___italico e negrito___
+
+- Lista 1
+- Lista 2
+  - Sublista
+
 
 <!--
 **IsaacDevBr/IsaacDevBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
