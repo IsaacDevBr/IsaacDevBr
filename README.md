@@ -28,6 +28,22 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
+------
+## 📊 &nbsp;Stats
+
+<h3 align="left">GitHub Stats</h3>
+
+<div align="left">
+	<a href="https://github.com/IsaacDevBr/github-readme-stats" target = "_blank">
+		<img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IsaacDevBr&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly">
+	</a>
+	<img alt="Top Langs" height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsaacDevBr&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832"> 
+    
+<!-- <a href="https://git.io/streak-stats">
+<img height="130em" src="https://streak-stats.demolab.com?user=IsaacDevBr&theme=buefy-dark&border_radius=3&date_format=M%20j%5B%2C%20Y%5D&background=020114&border=181832&ring=7520FF&stroke=181832&currStreakLabel=ED00F2&sideLabels=FCFCFC&currStreakNum=ED00F2&fire=ED00F2&sideNums=7520FF&dates=8B8B8B">
+	</a> -->
+</div>
+
 
 <!--
 **IsaacDevBr/IsaacDevBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
