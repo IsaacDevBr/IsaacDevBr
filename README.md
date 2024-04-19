@@ -1,10 +1,12 @@
 <center><h2>Hey, guys! Welcome to my profile!🚀</h2></center>
 <center><h2>Fly high and be light!🎈</h2></center>
 
+<<<<<<< HEAD
+<center><h2>Hello, guys!!! Welcome to my profile.</h2></center>
+
  - 🙋 **About me:** Hi, my name is Isaac, i'm 23 years old and I've currently been working in the Brazilian army for 4 years and i'm a Software Engineering student.
 ------
 - #### Contact:
-------
 [<center><img style="width: 30px; border-radius: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></center>](https://www.linkedin.com/in/isaac-souza-4a435925a/)
 ------
 ## 🛠 &nbsp;Tech Stack
@@ -18,7 +20,11 @@
 
 ### 🎨 &nbsp;Front-end
 
-![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
+
+ <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
+ <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+          
 ![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
 ![React](https://img.shields.io/badge/-React-E7ECEB?style=for-the-badge&logo=react&logoColor=1572B6)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-E7ECEB?style=for-the-badge&logo=Angular&logoColor=893121)&nbsp;
