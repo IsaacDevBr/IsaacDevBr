@@ -1,7 +1,6 @@
 <center><h2>Hey, guys! Welcome to my profile!🚀</h2></center>
 <center><h2>Fly high and be light!🎈</h2></center>
 
-<<<<<<< HEAD
 <center><h2>Hello, guys!!! Welcome to my profile.</h2></center>
 
  - 🙋 **About me:** Hi, my name is Isaac, i'm 23 years old and I've currently been working in the Brazilian army for 4 years and i'm a Software Engineering student.
