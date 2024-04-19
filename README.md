@@ -13,10 +13,11 @@
 
 ### 👩‍💻 &nbsp;Back-End
 
-![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-E7ECEB?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
-![Dotnet](https://img.shields.io/badge/.NET-E7ECEB?style=for-the-badge&logo=dotnet&logoColor=435C6E)&nbsp;
-![c-sharp](https://img.shields.io/badge/-C%23-E7ECEB?style=for-the-badge&logo=c-sharp&logoColor=3D5A7A)&nbsp;
+
+<img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />&nbsp;
+<img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;
+<img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />&nbsp;
+<img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;
 
 ### 🎨 &nbsp;Front-end
 
@@ -24,14 +25,16 @@
  <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
  <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
  <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
- <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
+ <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />&nbsp;
  <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;
 
 ### ⚡ &nbsp;Database
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;
-![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
+<img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />&nbsp;
+<img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />&nbsp;
+<img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
+<img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />&nbsp;
+
 ------
 ## 📊 &nbsp;Stats
 
