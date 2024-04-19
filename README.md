@@ -1,8 +1,6 @@
 <center><h2>Hey, guys! Welcome to my profile!🚀</h2></center>
 <center><h2>Fly high and be light!🎈</h2></center>
 
-<center><h2>Hello, guys!!! Welcome to my profile.</h2></center>
-
  - 🙋 **About me:** Hi, my name is Isaac, i'm 23 years old and I've currently been working in the Brazilian army for 4 years and i'm a Software Engineering student.
 ------
 - #### Contact:
@@ -49,19 +47,3 @@
 <img height="130em" src="https://streak-stats.demolab.com?user=IsaacDevBr&theme=buefy-dark&border_radius=3&date_format=M%20j%5B%2C%20Y%5D&background=020114&border=181832&ring=7520FF&stroke=181832&currStreakLabel=ED00F2&sideLabels=FCFCFC&currStreakNum=ED00F2&fire=ED00F2&sideNums=7520FF&dates=8B8B8B">
 	</a> -->
 </div>
-
-
-<!--
-**IsaacDevBr/IsaacDevBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
